@@ -9,13 +9,16 @@ Are younger employees resigning due to some kind of dissatisfaction? What about 
 
 Below is a preview of a couple of columns we'll work with from the `dete_survey.csv`:
 
-`ID`: An id used to identify the prticipant of the survey
-`SeparationType`: The reason why the person's employment ended
-`Cease Date`: The year or month the person's employment ended
-`DETE Start Date`: The year the person began employment with the DETE
+- `ID`: An id used to identify the prticipant of the survey
+
+- `SeparationType`: The reason why the person's employment ended
+
+- `Cease Date`: The year or month the person's employment ended
+
+- `DETE Start Date`: The year the person began employment with the DETE
 
 Below is a preview of a couple of columns we'll work with from the `tafe_survey.csv`:
 
-`Record ID`: An id used to identify the participant of the survey
-`Reason for ceasing employment`: The reason why the person's employment ended
-`LengthofServiceOverall. Overall Length of Service at Institute (in years)`: The length of the person's empoyment (in years)
+- `Record ID`: An id used to identify the participant of the survey
+- `Reason for ceasing employment`: The reason why the person's employment ended
+- `LengthofServiceOverall. Overall Length of Service at Institute (in years)`: The length of the person's empoyment (in years)
