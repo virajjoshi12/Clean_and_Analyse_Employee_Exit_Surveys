@@ -20,5 +20,7 @@ Below is a preview of a couple of columns we'll work with from the `dete_survey.
 Below is a preview of a couple of columns we'll work with from the `tafe_survey.csv`:
 
 - `Record ID`: An id used to identify the participant of the survey
+
 - `Reason for ceasing employment`: The reason why the person's employment ended
+
 - `LengthofServiceOverall. Overall Length of Service at Institute (in years)`: The length of the person's empoyment (in years)
