@@ -1,5 +1,5 @@
 # Clean_and_Analyse_Employee_Exit_Surveys
-In this project, we'll work with exit surveys from employees of the Department of Eduation, Training and Employment (DETE) and the Technical and Further Education (TAFE) Institute in Queensland, Australia.
+In this project, we'll work with exit surveys from employees of the Department of Education, Training and Employment (DETE) and the Technical and Further Education (TAFE) Institute in Queensland, Australia.
 
 In this project, we'll play the role of data analyst and pretend our stakeholders want to now the following:
 
